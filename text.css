@@ -1,0 +1,91 @@
+div{
+    p{
+        color: blue;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+   .test2{
+    color: brown;
+   }
+   .x{
+    border: 10px rebeccapurple solid;}
+}
+input[type="email"]{
+    background-color: aquamarine;
+}
+input[type="password"]{
+    background-color: aquamarine;
+}
+input[type="submit"]{
+    background-color: burlywood;
+}
+input[type="Reset"]{
+    background-color:khaki;
+}
+div{
+    h4{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: rgb(223, 21, 71);
+        font-weight:bolder;
+    }
+}
+div{
+   .m{border: 10px;
+    border-color: greenyellow;
+    border-style:dotted;}
+    .n{border: 10px greenyellow dotted;}
+    .p{border:10px greenyellow dotted}
+    .q{border: 10px greenyellow dotted;}
+.r{border: 10px greenyellow dotted;} 
+.s{
+    font-family:fantasy;
+    font-size:xx-large;
+    font-weight: lighter;
+    font-style: italic;
+    color: rgb(41, 3, 6);
+}  
+.c{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    font-weight:lighter;
+    font-style:initial;
+    color: rgb(5, 116, 54);
+} 
+.al{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    font-weight: 100;
+    font-style: initial;
+    color: rgb(5, 109, 61);
+}
+.t{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    font-weight: lighter;
+    color: rgb(8, 131, 49);}
+    .xx{
+
+background-image:url("https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+background-size:cover;
+width: 1000px; height: 500px;
+margin:150px;}
+
+
+.ahmed{
+    color: rgba(97, 160, 243, 0.678);
+font-size: x-large;
+font-weight:lighter;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+border: 10px rgb(9, 132, 148) double;
+text-align: center;}
+
+
+    .ahmmed{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: x-large;
+text-shadow: 1px 2px rgb(5, 41, 5);
+margin:100px 100px
+    
+
+
+
+    }
